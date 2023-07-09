@@ -7,7 +7,7 @@ This bash script is designed to summarize the directory tree and contents of Jav
 To use this script, follow these steps:
 
 1. Open a bash prompt.
-2. Navigate to the base directory (`../src`) of your project.
+2. Navigate to the base directory (`../src`) of your project and copy doit to there. You may have to set permissions (e.g. chmod 755 doit).
 3. Run the `doit` script by executing the command `./doit`.
 4. The script will generate the `output.txt` file, which contains a tree summary and the contents of each JavaScript and CSS file.
 5. Copy the content of `output.txt`.
