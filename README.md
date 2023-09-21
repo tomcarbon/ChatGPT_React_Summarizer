@@ -22,7 +22,7 @@ The script will generate the output.txt file, which contains a tree summary and 
 * Finally, copy/paste the copied content into a ChatGPT (or other AI) prompt for code analysis and development.
 
 ## Verified Systems
-This script has been tested and verified to work on the following system:
+This script has been tested and verified to work on the following systems:
 
 * GitBash on Windows 10
 * Ubuntu 20.04
