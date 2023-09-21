@@ -6,7 +6,7 @@ add_identification_comment() {
   file_extension="${file_path##*.}"
 
   # Check if file extension is either 'js' or 'css'
-  if [[ $file_extension == "js" || $file_extension == "css" ]]; then
+  if [[ $file_extension == "js" || $file_extension == "css" || $file_extension == 'cpp' || $file_extension == 'c']]; then
     # Check if the identification comment exists in the file
     if ! grep -q "ChatGPT Ref:" "$file_path"; then
       # Add identification comment to the file
