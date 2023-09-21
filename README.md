@@ -1,7 +1,7 @@
-#ChatGPT_React_Summarizer
+# ChatGPT_React_Summarizer
 This bash script is designed to summarize the directory tree and contents of JavaScript (.js), CSS (.css), and other specified files within the ./src directory and its subdirectories. The resulting output.txt file can be copied and pasted into a ChatGPT (or other AI) prompt for code analysis and enhancements with ChatGPT.
 
-##Usage
+## Usage
 To use this script, follow these steps:
 
 * Open a bash prompt.
@@ -15,12 +15,12 @@ The script will generate the output.txt file, which contains a tree summary and 
 
 * Finally, copy/paste the copied content into a ChatGPT (or other AI) prompt for code analysis and development.
 
-##Verified Systems
+## Verified Systems
 This script has been tested and verified to work on the following system:
 
 * GitBash on Windows 10
 
 
-##Acknowledgements
+## Acknowledgements
 
 This script was co-developed with ChatGPT, an AI-powered language model that assists in code analysis and development tasks.
