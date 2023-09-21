@@ -3,7 +3,7 @@ This bash script is designed to summarize the directory tree and contents of Jav
 
 With the --file_list option now ANY kind of file(s) can be passed into the output.txt (So now doesn't have to be a React .js/.css project. Might have to rename the project to ChatGPT_Summarizer).
 
-Be Warned: This program will add a one line header to all .js/.css files (--all), or all specified .js/.css/.c/.cpp files (--file_list) in your project. The line looks like this:
+Be Warned: This program will add a one line header to all .js/.css files (--react), or all specified .js/.css/.c/.cpp files (--file_list) in your project. The line looks like this:
 
  /* ChatGPT Ref: ./src/components/Example.js */
 
